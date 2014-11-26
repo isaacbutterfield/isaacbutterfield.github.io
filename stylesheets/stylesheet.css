@@ -167,9 +167,7 @@ a.button span {
 #prompt-pdf span {
   background: transparent url(../images/octocat-icon.png) 12px 50% no-repeat;
 }
-#prompt-pdf {
-  margin-right: 0;
-}
+
 code, pre {
   font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal;
   color: #222;
